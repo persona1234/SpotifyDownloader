@@ -10,7 +10,7 @@ In seguito sono riportati i passaggi per avviare il programma e le dipendenze ne
     
     **[Comandi per novizi]**
     1. Installare Python con il comando: *sudo apt-get update* e *sudo apt-get install python3*. 
-    ![update](https://user-images.githubusercontent.com/50184213/207728446-6d212c5f-adb7-463d-a0da-44f59a4155d5.png)
+    ![alt text](https://user-images.githubusercontent.com/50184213/207728446-6d212c5f-adb7-463d-a0da-44f59a4155d5.png)
 
 
 
