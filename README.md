@@ -12,7 +12,7 @@ In seguito sono riportati i passaggi per avviare il programma e le dipendenze ne
 2)Installere PIP utilizzando il comando: *sudo apt-get install python-pip*
 
 **[Comandi per tutti]**
-1)Copiare la cartella di Github in locale scrivendo, sempre nel terminale: *git clone https://github.com/persona1234/SpotiDownloader_OpenSource.git* (Si considera git già installato, in caso di errori installarlo con il comando: *sudo apt-get install git*)
+1)Copiare la cartella di Github in locale scrivendo, sempre nel terminale: *git clone [(https://github.com/persona1234/SpotiDownloader_OpenSource.git*)] (Si considera git già installato, in caso di errori installarlo con il comando: *sudo apt-get install git*)
 2)Aprire la cartella appena scaricata e da lì un terminale.
 3)Scaricare le dipendenze necessarie all'applicazione: *pip install -r requirements.txt*
 4)Avviare l'applicazione "main.py" digitando: *python main.py*.
@@ -25,7 +25,7 @@ In seguito sono riportati i passaggi per avviare il programma e le dipendenze ne
 2)Installere PIP (fare riferimento alle guide online)
 
 **[Comandi per tutti]**
-1)Copiare la cartella di Github in locale collegandosi al seguente link: *https://github.com/persona1234/SpotiDownloader_OpenSource.git* e nella sezione **Code** cliccare su **Download ZIP**
+1)Copiare la cartella di Github in locale collegandosi al seguente link: [(*https://github.com/persona1234/SpotiDownloader_OpenSource.git*)] e nella sezione **Code** cliccare su **Download ZIP**
 2)Estrarre il file scaricato in una cartella ed aprirla, da lì aprire una finestra dei comandi (cmd).
 3)Scaricare le dipendenze necessarie all'applicazione: *pip install -r requirements.txt* (o utilizzando: *python -m pip install -r requirements.txt *)
 4)Avviare l'applicazione "main.py" digitando: *python main.py*.
