@@ -9,14 +9,14 @@ In seguito sono riportati i passaggi per avviare il programma e le dipendenze ne
 **Istruzioni (Python, Linux):**
     
     **[Comandi per novizi]**
-    1. Installare Python con il comando: *sudo apt-get update* e *sudo apt install python*.
-    2. Installere PIP utilizzando il comando: *sudo apt-get install python-pip*
+    1. Installare Python con il comando: *sudo apt-get update* e *sudo apt-get install python3*.
+    2. Installere PIP utilizzando il comando: *sudo apt-get install python3-pip*
 
     **[Comandi per tutti]**
     1) Copiare la cartella di Github in locale scrivendo, sempre nel terminale: *git clone https://github.com/persona1234/SpotiDownloader_OpenSource.git* (Si considera git già installato, in caso di errori installarlo con il comando: *sudo apt-get install git*)
     2) Aprire la cartella appena scaricata e da lì un terminale.
     3) Scaricare le dipendenze necessarie all'applicazione: *pip install -r requirements.txt*
-    4) Avviare l'applicazione "main.py" digitando: *python main.py*.
+    4) Avviare l'applicazione "main.py" digitando: *python3 main.py*.
     5) Fine.
 
 **Istruzioni (Python, Windows):**
