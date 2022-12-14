@@ -4,13 +4,13 @@ A differenza di altri programmi disponibili sul web, SpotiDownloader offre, graz
 In seguito sono riportati i passaggi per avviare il programma e le dipendenze necessarie, è possibile evitare questi passaggi scaricando le repository, sempre su questo utente, con gli eseguibili (Linux e Windows). 
 
 *N.B. Gli eseguibili potrebbero non essere compatibili con la versione del sistema operativo in uso, in tal caso è necessario fare riferimento a questa cartella.*
+![alt text](https://user-images.githubusercontent.com/50184213/207728446-6d212c5f-adb7-463d-a0da-44f59a4155d5.png)
 
 
 **Istruzioni (Python, Linux):**
     
     **[Comandi per novizi]**
     1. Installare Python con il comando: *sudo apt-get update* e *sudo apt-get install python3*. 
-    ![alt text](https://user-images.githubusercontent.com/50184213/207728446-6d212c5f-adb7-463d-a0da-44f59a4155d5.png)
 
 
 
