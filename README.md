@@ -7,6 +7,7 @@ In seguito sono riportati i passaggi per avviare il programma e le dipendenze ne
 
 
 **Istruzioni (Python, Linux):**
+    
     **[Comandi per novizi]**
     1. Installare Python con il comando: *sudo apt-get update* e *sudo apt install python*.
     2. Installere PIP utilizzando il comando: *sudo apt-get install python-pip*
