@@ -10,7 +10,7 @@ In seguito sono riportati i passaggi per avviare il programma e le dipendenze ne
     
     **[Comandi per novizi]**
     1. Installare Python con il comando: *sudo apt-get update* e *sudo apt-get install python3*. 
-    ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/update.png)
+    ![alt text]([https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/update.png](https://raw.githubusercontent.com/persona1234/SpotiDownloader_OpenSource/main/IMG_Linux_edit/update.png))
 
     2. Installere PIP utilizzando il comando: *sudo apt-get install python3-pip*
 
