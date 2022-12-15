@@ -19,7 +19,18 @@ In seguito sono riportati i passaggi per avviare il programma e le dipendenze ne
     4) Avviare l'applicazione "main.py" digitando: *python3 main.py*.
     5) Fine.
 Qui sono riportate le immagini dei passaggi su Linux:
-![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/update.png) [UPDATE]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/update.png) [Aggiornamento sorgenti software]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/python.png) [Installazione Python]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/pip.png) [Installazione Pip]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/git.png) [Installazione Git]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/clone.png) [Copia repository]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/requirements.png) [Installazione dipendenze]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/home.png) [Funzioni applicazione]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/avvio.png) [Avvio applicazione]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/download.png) [Download canzoni, quando parte viene mostrata una notifica con il nome della canzone]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/cartella.png) [Mostra la playlist scaricata utile per la copia dei brani su altri dispositivi]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/login.png) [Cambio utente. È possibile inserire il proprio id utente a posto di quello default]
+
 
 
 **Istruzioni (Python, Windows):**
