@@ -1,6 +1,6 @@
 # SpotiDownloader_OpenSource
-In questa repository sono riportate le componenti essenziali di SpotiDownloader, un progetto nato con lo scopo di scaricare Playlist da Spotify per poi ascoltarle offline (funzione a pagamento nella nota applicazione). 
-A differenza di altri programmi disponibili sul web, SpotiDownloader offre, grazia al codice disponibile pubblicamente, una garanzia di sicurezza.
+In questa repository sono riportate le componenti **essenziali** di SpotiDownloader, un progetto nato con lo scopo di scaricare Playlist da Spotify per poi ascoltarle offline (funzione a pagamento nella nota applicazione). 
+A differenza di altri programmi disponibili sul web, SpotiDownloader offre, grazia al codice disponibile **pubblicamente**, una garanzia di **sicurezza**.
 In seguito sono riportati i passaggi per avviare l'applicazione e le dipendenze necessarie, è possibile evitare questi passaggi scaricando le repository, sempre su questo utente, con gli eseguibili (Linux e Windows). 
 
 *N.B. Gli eseguibili potrebbero non essere compatibili con la versione del sistema operativo in uso, in tal caso è necessario fare riferimento a questa cartella.*
@@ -8,7 +8,7 @@ In seguito sono riportati i passaggi per avviare l'applicazione e le dipendenze 
 
 **Istruzioni (Python, Linux):**
     
-    **[Comandi per novizi]**
+    **[Comandi per principianti]**
     1. Installare Python con il comando: *sudo apt-get update* e *sudo apt-get install python3*. 
     2. Installere PIP utilizzando il comando: *sudo apt-get install python3-pip*
 
@@ -27,15 +27,15 @@ Qui sono riportate le immagini dei passaggi su Linux:
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/requirements.png) [Installazione dipendenze]
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/home1.png) [Funzioni applicazione]
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/avvio.png) [Avvio applicazione]
-![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/download.png) [Download canzoni, quando parte viene mostrata una notifica con il nome della canzone]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/download.png) [Download canzoni,viene mostrata una notifica con il nome della canzone]
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/cartella.png) [Mostra, cliccando sulla funzione 1 dell'immagine **Funzioni applicazione**, la playlist scaricata utile per la copia dei brani su altri dispositivi]
-![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/login.png) [Cambio utente. È possibile, cliccando sulla funzione 2, inserire il proprio id utente a posto di quello preimpostato]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/login.png) [Cambio utente. È possibile, cliccando sulla **funzione 2**, inserire il proprio id utente al posto di quello preimpostato]
 
 
 
 **Istruzioni (Python, Windows):**
 
-    **[Comandi per novizi]**
+    **[Comandi per principianti]**
     1) Installare Python dal sito ufficiale: *https://www.python.org/downloads/*
     2) Installere PIP (fare riferimento alle guide online)
 
