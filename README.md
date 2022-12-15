@@ -29,7 +29,7 @@ Qui sono riportate le immagini dei passaggi su Linux:
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/avvio.png) [Avvio applicazione]
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/download.png) [Download canzoni, quando parte viene mostrata una notifica con il nome della canzone]
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/cartella.png) [Mostra la playlist scaricata utile per la copia dei brani su altri dispositivi]
-![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/login.png) [Cambio utente. È possibile inserire il proprio id utente a posto di quello default]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/login.png) [Cambio utente. È possibile inserire il proprio id utente a posto di quello preimpostato]
 
 
 
