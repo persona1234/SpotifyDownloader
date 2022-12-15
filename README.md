@@ -1,6 +1,6 @@
 # SpotiDownloader_OpenSource
 # Chi siamo?
-SpotiDownloader nasce da un bisogno, sviluppato individualmento, può diventare un progetto **collettivo** usufruendo dell'approccio **opensource**.
+SpotiDownloader nasce da un bisogno, sviluppato individualmente, può diventare un progetto **collettivo** usufruendo dell'approccio **opensource**.
 
 # Cos'è?
 In questa repository sono riportate le componenti **essenziali** di SpotiDownloader, un progetto nato con lo scopo di scaricare Playlist da Spotify per poi ascoltarle offline (funzione a pagamento nella nota applicazione). 
