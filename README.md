@@ -51,6 +51,6 @@ Qui sono riportate le immagini dei passaggi su Linux:
     5) Fine.
 
 # Glossario:
-    OpenSource: Indica un approccio al codice nel quale si rende il codice sorgente disponibile ad altri.
+    OpenSource: Indica un approccio alla programmazione nel quale si rende il codice sorgente disponibile ad altri.
     Repository: Il luogo dove vengono conservati i files di un progetto pubblicato su github, ogni repository ha un proprio codice identificativo univoco.
 **N.B**. La velocità di scaricamento delle canzoni dipende dalla connessione ad Internet e dal numero di brani nella Playlist selezionata. È **importante** che il **link** della Playlist sia indicato per **intero** e che essa sia **pubblica**.
