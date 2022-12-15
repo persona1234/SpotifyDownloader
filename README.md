@@ -50,4 +50,7 @@ Qui sono riportate le immagini dei passaggi su Linux:
     4) Avviare l'applicazione "main.py" digitando: *python main.py*.
     5) Fine.
 
+# Glossario:
+    OpenSource:
+    Repository:
 **N.B**. La velocità di scaricamento delle canzoni dipende dalla connessione ad Internet e dal numero di brani nella Playlist selezionata. È **importante** che il **link** della Playlist sia indicato per **intero** e che essa sia **pubblica**.
