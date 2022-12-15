@@ -1,4 +1,8 @@
 # SpotiDownloader_OpenSource
+# Chi siamo?
+SpotiDownloader nasce da un bisogno, sviluppato individualmento, può diventare un progetto **collettivo** usufruendo dell'approccio **opensource**.
+
+# Cos'è?
 In questa repository sono riportate le componenti **essenziali** di SpotiDownloader, un progetto nato con lo scopo di scaricare Playlist da Spotify per poi ascoltarle offline (funzione a pagamento nella nota applicazione). 
 A differenza di altri programmi disponibili sul web, SpotiDownloader offre, grazia al codice disponibile **pubblicamente**, una garanzia di **sicurezza**.
 In seguito sono riportati i passaggi per avviare l'applicazione e le dipendenze necessarie, è possibile evitare questi passaggi scaricando le repository, sempre su questo utente, con gli eseguibili (Linux e Windows). 
@@ -6,7 +10,7 @@ In seguito sono riportati i passaggi per avviare l'applicazione e le dipendenze 
 *N.B. Gli eseguibili potrebbero non essere compatibili con la versione del sistema operativo in uso, in tal caso è necessario fare riferimento a questa cartella.*
 
 
-**Istruzioni (Python, Linux):**
+# Istruzioni (Python, Linux):
     
     **[Comandi per principianti]**
     1. Installare Python con il comando: *sudo apt-get update* e *sudo apt-get install python3*. 
@@ -33,7 +37,7 @@ Qui sono riportate le immagini dei passaggi su Linux:
 
 
 
-**Istruzioni (Python, Windows):**
+# Istruzioni (Python, Windows):
 
     **[Comandi per principianti]**
     1) Installare Python dal sito ufficiale: *https://www.python.org/downloads/*
