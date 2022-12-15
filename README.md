@@ -46,11 +46,11 @@ Qui sono riportate le immagini dei passaggi su Linux:
     **[Comandi per tutti]**
     1) Copiare la cartella di Github in locale collegandosi al seguente link: *https://github.com/persona1234/SpotiDownloader_OpenSource.git* e nella sezione **Code** cliccare su **Download ZIP**
     2) Estrarre il file scaricato in una cartella ed aprirla, da lì aprire una finestra dei comandi (cmd).
-    3) Scaricare le dipendenze necessarie all'applicazione: *pip install -r requirements.txt* (o utilizzando: *python -m pip install -r requirements.txt *)
+    3) Scaricare le dipendenze necessarie all'applicazione: *pip install -r requirements.txt* (o utilizzando: *python -m pip install -r requirements.txt *, in caso di errore potrebbe essere necessario sostituire "python" con "py")
     4) Avviare l'applicazione "main.py" digitando: *python main.py*.
     5) Fine.
 
 # Glossario:
-    OpenSource:
-    Repository:
+    OpenSource: Indica un approccio al codice nel quale si rende il codice sorgente disponibile ad altri.
+    Repository: Il luogo dove vengono conservati i files di un progetto pubblicato su github, ogni repository ha un proprio codice identificativo univoco.
 **N.B**. La velocità di scaricamento delle canzoni dipende dalla connessione ad Internet e dal numero di brani nella Playlist selezionata. È **importante** che il **link** della Playlist sia indicato per **intero** e che essa sia **pubblica**.
