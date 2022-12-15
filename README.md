@@ -4,16 +4,12 @@ A differenza di altri programmi disponibili sul web, SpotiDownloader offre, graz
 In seguito sono riportati i passaggi per avviare il programma e le dipendenze necessarie, è possibile evitare questi passaggi scaricando le repository, sempre su questo utente, con gli eseguibili (Linux e Windows). 
 
 *N.B. Gli eseguibili potrebbero non essere compatibili con la versione del sistema operativo in uso, in tal caso è necessario fare riferimento a questa cartella.*
-![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/update.png)
 
 
 **Istruzioni (Python, Linux):**
     
     **[Comandi per novizi]**
     1. Installare Python con il comando: *sudo apt-get update* e *sudo apt-get install python3*. 
-
-
-
     2. Installere PIP utilizzando il comando: *sudo apt-get install python3-pip*
 
     **[Comandi per tutti]**
@@ -22,6 +18,9 @@ In seguito sono riportati i passaggi per avviare il programma e le dipendenze ne
     3) Scaricare le dipendenze necessarie all'applicazione: *pip install -r requirements.txt*
     4) Avviare l'applicazione "main.py" digitando: *python3 main.py*.
     5) Fine.
+Qui sono riportate le immagini dei passaggi su Linux:
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/update.png) [UPDATE]
+
 
 **Istruzioni (Python, Windows):**
 
