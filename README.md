@@ -82,4 +82,4 @@ Qui le istruzione illustrate per Windows:
     
 **N.B**. La velocità di scaricamento delle canzoni dipende dalla connessione ad Internet e dal numero di brani nella Playlist selezionata. È **importante** che il **link** della Playlist sia indicato per **intero** e che essa sia **pubblica**.
 
-*-Andrea Ubaldo Buscetto.*
+*- Andrea Ubaldo Buscetto.*
