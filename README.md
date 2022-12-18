@@ -54,7 +54,7 @@ Qui le istruzione illustrate per Windows:
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Git_Cartella.png) [Download ZIP programma]
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Cmd_cartella.png) [Chiamare cmd nella cartella estratta dello ZIP, notare il percorso con il prefisso "cmd"]
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Pip_install.png) [Installazione dipendenze]
-![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/App_home.png) [Avvio applicazione]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/App_home1.png) [Avvio applicazione]
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/App_avvio.png) [Notifica di inizio lettura Playlist]
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/App_scarica.png) [Notifica canzone scaricata]
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Play_letta.png) [Notifica conclusione download canzoni]
