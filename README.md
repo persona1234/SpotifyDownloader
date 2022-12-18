@@ -60,8 +60,8 @@ Qui le istruzione illustrate per Windows:
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Play_letta.png) [Notifica conclusione download canzoni]
 
 # Extra:
-    ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Link.png) [Mostra, cliccando sulla funzione 1 dell'immagine **Avvio applicazione**, la playlist scaricata utile per la copia dei brani su altri dispositivi]
-    ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Nome_utente.png) [ID Utente, necessario, nella **funzione 2**, se si vuole utilizzare una configurazione diversa da quella preimpostata.]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Link.png) [Mostra, cliccando sulla funzione 1 dell'immagine **Avvio applicazione**, la playlist scaricata utile per la copia dei brani su altri dispositivi]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Nome_utente.png) [ID Utente, necessario, nella **funzione 2**, se si vuole utilizzare una configurazione diversa da quella preimpostata.]
 
 
 
