@@ -57,7 +57,7 @@ Qui le istruzione illustrate per Windows:
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/App_home1.png) [Avvio applicazione]
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/App_avvio.png) [Notifica di inizio lettura Playlist]
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/App_scarica.png) [Notifica canzone scaricata]
-![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Play_letta.png) [Notifica conclusione download canzoni]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Play_letta.png) [Notifica conclusione download canzoni, il numero vicino indica le canzoni presenti nella playlist]
 
 # Extra:
 ![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Link.png) [Mostra, cliccando sulla funzione 1 dell'immagine **Avvio applicazione**, la playlist scaricata utile per la copia dei brani su altri dispositivi]
