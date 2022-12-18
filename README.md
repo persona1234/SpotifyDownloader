@@ -50,7 +50,21 @@ Qui sono riportate le immagini dei passaggi su Linux:
     5) Fine.
 
 Qui le istruzione illustrate per Windows:
-![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/update.png) [Aggiornamento sorgenti software]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Python_download.png) [Installazione Python per Windows]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Git_Cartella.png) [Download ZIP programma]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Cmd_cartella.png) [Chiamare cmd nella cartella estratta dello ZIP, notare il percorso con il prefisso "cmd"]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Pip_install.png) [Installazione dipendenze]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/App_home.png) [Avvio applicazione]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/App_avvio.png) [Notifica di inizio lettura Playlist]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/App_scarica.png) [Notifica canzone scaricata]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Play_letta.png) [Notifica conclusione download canzoni]
+
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Link.png) [Mostra, cliccando sulla funzione 1 dell'immagine **Avvio applicazione**, la playlist scaricata utile per la copia dei brani su altri dispositivi]
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Windows/Nome_utente.png) [ID Utente, necessario, nella **funzione 2**, se si vuole utilizzare una configurazione diversa da quella preimpostata.]
+
+
+
+
 
 # Glossario:
     OpenSource: Indica un approccio alla programmazione nel quale si rende il codice sorgente disponibile ad altri.
