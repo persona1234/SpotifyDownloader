@@ -37,18 +37,20 @@ Qui sono riportate le immagini dei passaggi su Linux:
 
 
 
-# Istruzioni (Python, Windows):
+# Istruzioni (Python, Windows 64bit):
 
     **[Comandi per principianti]**
     1) Installare Python dal sito ufficiale: *https://www.python.org/downloads/*
-    2) Installere PIP (fare riferimento alle guide online)
-
+    
     **[Comandi per tutti]**
     1) Copiare la cartella di Github in locale collegandosi al seguente link: *https://github.com/persona1234/SpotiDownloader_OpenSource.git* e nella sezione **Code** cliccare su **Download ZIP**
     2) Estrarre il file scaricato in una cartella ed aprirla, da lì aprire una finestra dei comandi (cmd).
     3) Scaricare le dipendenze necessarie all'applicazione: *pip install -r requirements.txt* (o utilizzando: *python -m pip install -r requirements.txt *, in caso di errore potrebbe essere necessario sostituire "python" con "py")
     4) Avviare l'applicazione "main.py" digitando: *python main.py*.
     5) Fine.
+
+Qui le istruzione illustrate per Windows:
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/IMG_Linux_edit/update.png) [Aggiornamento sorgenti software]
 
 # Glossario:
     OpenSource: Indica un approccio alla programmazione nel quale si rende il codice sorgente disponibile ad altri.
