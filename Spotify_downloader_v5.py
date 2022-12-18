@@ -144,7 +144,7 @@ def start():
             if len(tracce) in l:
                 dup = set([x for x in ria if ria.count(x) > 1])
                 print("Playlist letta completamente",len(tracce)) 
-                messaggio = "Playlist letta completamente"+str(len(tracce))
+                messaggio = "Playlist letta completamente "+str(len(tracce))
 
                 notification.notify(title = 'SpotiDownloader',message = messaggio,app_name="SpotiDownloader",ticker="SpotiDownloader",timeout = 5)
                 print(f"Canzoni duplicate: {dup}, {len(dup)}") #Cerca canzoni duplicate
