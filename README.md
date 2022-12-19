@@ -1,6 +1,6 @@
 # SpotiDownloader_OpenSource
 
-SpotiDownloader nasce da un bisogno, sviluppato individualmente, può diventare un progetto **collettivo** (grazie al contributo dei volontari), usufruendo dell'approccio **opensource**.
+SpotiDownloader nasce da un bisogno, sviluppato individualmente, può diventare un progetto **collettivo** (grazie al contributo dei volontari), usufruendo dell'approccio **open source**.
 
 # Cos'è?
 In questa repository sono riportate le componenti **essenziali** di SpotiDownloader, un progetto nato con lo scopo di scaricare Playlist da Spotify per poi ascoltarle offline (funzione a pagamento nella nota applicazione). 
@@ -80,6 +80,6 @@ Qui le istruzione illustrate per Windows:
     ZIP: Estensione di un archivio compresso.
     CMD (Command Prompt Commands): Finestra di interazione con il Sistema Operativo.
     
-**N.B**. La velocità di scaricamento delle canzoni dipende dalla connessione ad Internet e dal numero di brani nella Playlist selezionata. È **importante** che il **link** della Playlist sia indicato per **intero** e che essa sia **pubblica**.
+**N.B**. La velocità di scaricamento delle canzoni dipende dalla connessione ad Internet e dal numero di brani nella Playlist selezionata. È **importante** che il **link** della Playlist sia indicato per **intero** e che essa sia **pubblica**. Inoltre, una volta concluso il download delle canzoni verrà mostrata una notifica di avviso in caso di canzoni duplicate.
 
 *- Andrea Ubaldo Buscetto.*
