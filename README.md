@@ -70,7 +70,7 @@ Qui le istruzione illustrate per Windows:
 
 
 # Glossario:
-    *SpotiDownloader: Il nome del progetto è il risultato della crasi tra Spotify e Downloader, esso sintetizza il suo compito: scaricare serie di canzoni da Spotify.
+    * SpotiDownloader: Il nome del progetto è il risultato della crasi tra Spotify e Downloader, esso sintetizza il suo compito: scaricare serie di canzoni da Spotify.
     *OpenSource: Indica un approccio alla programmazione nel quale si rende il codice sorgente disponibile ad altri.
     *Repository: Il luogo dove vengono conservati i files di un progetto pubblicato su github, ogni repository ha un proprio codice identificativo univoco.
     *Offline: Letteralmente "fuori dalla rete", un utilizzo offline non ha bisogno del collegamento ad Internet.
