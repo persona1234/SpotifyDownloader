@@ -71,15 +71,19 @@ Qui le istruzione illustrate per Windows:
 
 # Glossario:
     SpotiDownloader: Il nome del progetto è il risultato della crasi tra Spotify e Downloader, esso sintetizza il suo compito: scaricare serie di canzoni da Spotify.
-    OpenSource: Indica un approccio alla programmazione nel quale si rende il codice sorgente disponibile ad altri.
-    Repository: Il luogo dove vengono conservati i files di un progetto pubblicato su github, ogni repository ha un proprio codice identificativo univoco.
-    Offline: Letteralmente "fuori dalla rete", un utilizzo offline non ha bisogno del collegamento ad Internet.
-    Github: Piattaforma che ospita progetti OpenSource.
-    Playlist: Insieme di brani presenti su Spotify.
-    Download: Tradotto in italiano con "scaricare", rappresenta la copia di un documento da una macchina remota ad una locale.
-    ZIP: Estensione di un archivio compresso.
-    CMD (Command Prompt Commands): Finestra di interazione con il Sistema Operativo.
-    
+    **OpenSource**: Indica un approccio alla programmazione nel quale si rende il codice sorgente disponibile ad altri.
+    **Repository**: Il luogo dove vengono conservati i files di un progetto pubblicato su github, ogni repository ha un proprio codice identificativo univoco.
+    **Offline**: Letteralmente "fuori dalla rete", un utilizzo offline non ha bisogno del collegamento ad Internet.
+    **Github**: Piattaforma che ospita progetti OpenSource.
+    **Playlist**: Insieme di brani presenti su Spotify.
+    **Download**: Tradotto in italiano con "scaricare", rappresenta la copia di un documento da una macchina remota ad una locale.
+    **ZIP**: Estensione di un archivio compresso.
+    **CMD (Command Prompt Commands)**: Finestra di interazione con il Sistema Operativo.
+
+# Ringraziamenti:
+Si ringrazia per l'aiuto, la disponibilità e i suggerimenti Giulia Met.
+![alt text](https://github.com/persona1234/SpotiDownloader_OpenSource/blob/main/pinguino.png) 
+
 **N.B**. La velocità di scaricamento delle canzoni dipende dalla connessione ad Internet e dal numero di brani nella Playlist selezionata. È **importante** che il **link** della Playlist sia indicato per **intero** e che essa sia **pubblica**. Inoltre, una volta concluso il download delle canzoni verrà mostrata una notifica di avviso in caso di canzoni duplicate.
 
 *- Andrea Ubaldo Buscetto.*
