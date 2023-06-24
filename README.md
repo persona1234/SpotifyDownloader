@@ -1,4 +1,4 @@
-# SpotiDownloader_OpenSource
+#SpotifyDownloader(SpotiDownloader_OpenSource)
 
 SpotiDownloader nasce da un bisogno, sviluppato individualmente, può diventare un progetto **collettivo** (grazie al contributo dei volontari), usufruendo dell'approccio **open source**.
 
