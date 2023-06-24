@@ -1,4 +1,5 @@
 # SpotiDownloader_OpenSource
+A tool for download spotify's playlists.
 
 SpotiDownloader nasce da un bisogno, sviluppato individualmente, può diventare un progetto **collettivo** (grazie al contributo dei volontari), usufruendo dell'approccio **open source**.
 
